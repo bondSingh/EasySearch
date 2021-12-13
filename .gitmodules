@@ -1,0 +1,6 @@
+[submodule "EasySearch"]
+	path = EasySearch
+	url = https://github.com/bondSingh/EasySearch.git
+[submodule "ThreeWordsSdk"]
+	path = ThreeWordsSdk
+	url = https://github.com/bondSingh/ThreeWordsSdk.git

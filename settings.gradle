@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "EasySearch"
 include ':app'
+include ':ThreeWordsSdk'
